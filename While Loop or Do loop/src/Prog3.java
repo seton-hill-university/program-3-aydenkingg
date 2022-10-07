@@ -23,8 +23,8 @@ public class Prog3 {
 			{
 			System.out.println("There is a remainder " + COUNTDOWN);
 			}
-			
-			break; }
+			break;
+			 }
 
 		if(number < 0 || number > 100)
 		{
@@ -34,6 +34,7 @@ public class Prog3 {
 			for(int COUNTDOWN2 = number2; COUNTDOWN2>0; COUNTDOWN2--)
 			{
 				System.out.println("There is a remainder of " + COUNTDOWN2);
+			
 			}
 
 		}
